@@ -12,7 +12,7 @@ const rappers = {
     'image': 'https://en.wikipedia.org/wiki/DMX#/media/File:Academy_Awards_afterparty_CUN_DMX.jpg' 
 
     },
-' jay z': {
+' jayz': {
     'birthday': 'December 4th, 1969',
     'birthName': 'Shawn Corey Carter',
     'birthLocation':' New York City, New York',
